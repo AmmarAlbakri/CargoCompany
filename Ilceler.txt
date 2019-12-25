@@ -1,0 +1,13 @@
+U01,Akçakale,GB
+U02,Birecik,GB
+U03,Bozova,KB
+U04,Ceylanpınar,GD
+U05,Eyyübiye,GB
+U06,Halfeti,KB
+U07,Haliliye,KD
+U08,Harran,GD
+U09,Hilvan,KD
+U10,Karaköprü,KB
+U11,Siverek,KD
+U12,Suruç,GB
+U13,Viranşehir,GD

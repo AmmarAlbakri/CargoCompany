@@ -1,0 +1,96 @@
+Adjacent of TA28 --- U01Y2:5 --- U01Y1:9 --- TA29:6 
+Adjacent of TA29 --- U01Y3:7 --- U01Y1:13 --- TA28:6
+Adjacent of TA15 --- U02Y2:4 --- U02Y1:11
+Adjacent of TA16 --- U02Y3:16 --- U02Y1:8
+Adjacent of TA17 --- U03Y4:2 --- U03Y3:4 --- TA18:9
+Adjacent of TA18 --- U03Y2:5 --- TA19:12 --- TA17:9
+Adjacent of TA19 --- U03Y1:13 --- TA18:12
+Adjacent of TA25 --- U04Y3:12 --- U04Y2:14 --- U04Y1:18
+Adjacent of TA09 --- U05Y3:3 --- U05Y2:5 --- U05Y1:7 --- TA11:6 --- TA10:5
+Adjacent of TA10 --- U05Y5:4 --- U05Y4:8 --- TA11:5 --- TA09:5
+Adjacent of TA11 --- U05Y6:6 --- TA10:5 --- TA09:6
+Adjacent of TA30 --- U06Y2:13 --- U06Y1:16        
+Adjacent of TA01 --- U07Y1:4 --- TA04:9 --- TA02:8
+Adjacent of TA02 --- M:6 --- U07Y2:4 --- TA01:8   
+Adjacent of TA03 --- M:5 --- U07Y3:5
+Adjacent of TA04 --- U07Y5:4 --- U07Y4:4 --- TA01:9
+Adjacent of TA26 --- U08Y1:7 --- TA27:7
+Adjacent of TA27 --- U08Y3:8 --- U08Y2:5 --- U08Y1:7 --- TA26:7
+Adjacent of TA20 --- U09Y4:7 --- U09Y3:4 --- U09Y2:4 --- TA21:4
+Adjacent of TA21 --- TA20:4
+Adjacent of TA05 --- U10Y2:5 --- U10Y1:5 --- TA06:4
+Adjacent of TA06 --- TA08:11 --- TA07:7 --- TA05:4
+Adjacent of TA07 --- U10Y4:5 --- U10Y3:12 --- TA08:7 --- TA06:7
+Adjacent of TA08 --- TA07:7 --- TA06:11
+Adjacent of TA22 --- U11Y1:15 --- TA23:12
+Adjacent of TA23 --- U11Y2:6 --- U11Y1:9 --- TA22:12
+Adjacent of TA12 --- U12Y3:7 --- U12Y2:7 --- TA13:5
+Adjacent of TA13 --- U12Y4:10 --- U12Y1:6 --- TA14:5 --- TA12:5
+Adjacent of TA14 --- U12Y5:6 --- U12Y1:6 --- TA13:5
+Adjacent of TA24 --- U13Y2:12 --- U13Y1:12
+Adjacent of U01-Y1 --- U05-Y1:51
+Adjacent of U01-Y2 --- U08-Y1:34
+Adjacent of U01-Y3 --- U12-Y1:40
+Adjacent of U02-Y1 --- U05-Y2:77
+Adjacent of U02-Y2 --- U06-Y1:35
+Adjacent of U02-Y3 --- U12-Y2:42
+Adjacent of U03-Y1 --- U06-Y2:45
+Adjacent of U03-Y2 --- U09-Y1:73
+Adjacent of U03-Y3 --- U10-Y1:38
+Adjacent of U03-Y4 --- U12-Y3:85
+Adjacent of U04-Y1 --- U05-Y3:92
+Adjacent of U04-Y2 --- U08-Y2:71
+Adjacent of U04-Y3 --- U13-Y1:45
+Adjacent of U05-Y1 --- U01-Y1:51
+Adjacent of U05-Y2 --- U02-Y1:77
+Adjacent of U05-Y3 --- U04-Y1:92
+Adjacent of U05-Y4 --- U07-Y1:19
+Adjacent of U05-Y5 --- U08-Y3:38
+Adjacent of U05-Y6 --- U12-Y4:37
+Adjacent of U06-Y1 --- U02-Y2:35
+Adjacent of U06-Y2 --- U03-Y1:45
+Adjacent of U07-Y1 --- U05-Y4:19
+Adjacent of U07-Y2 --- U09-Y2:57
+Adjacent of U07-Y3 --- U10-Y2:23
+Adjacent of U07-Y4 --- U11-Y1:78
+Adjacent of U07-Y5 --- U13-Y2:82
+Adjacent of U08-Y1 --- U01-Y2:34
+Adjacent of U08-Y2 --- U04-Y2:71
+Adjacent of U08-Y3 --- U05-Y5:38
+Adjacent of U09-Y1 --- U03-Y2:73
+Adjacent of U09-Y2 --- U07-Y2:57
+Adjacent of U09-Y3 --- U10-Y3:41
+Adjacent of U09-Y4 --- U11-Y2:34
+Adjacent of U10-Y1 --- U03-Y3:38
+Adjacent of U10-Y2 --- U07-Y3:23
+Adjacent of U10-Y3 --- U09-Y3:41
+Adjacent of U10-Y4 --- U12-Y5:52
+Adjacent of U05-Y5 --- U08-Y3:38
+Adjacent of U05-Y6 --- U12-Y4:37
+Adjacent of U06-Y1 --- U02-Y2:35
+Adjacent of U06-Y2 --- U03-Y1:45
+Adjacent of U07-Y1 --- U05-Y4:19
+Adjacent of U07-Y2 --- U09-Y2:57
+Adjacent of U07-Y3 --- U10-Y2:23
+Adjacent of U07-Y4 --- U11-Y1:78
+Adjacent of U07-Y5 --- U13-Y2:82
+Adjacent of U08-Y1 --- U01-Y2:34
+Adjacent of U08-Y2 --- U04-Y2:71
+Adjacent of U08-Y3 --- U05-Y5:38
+Adjacent of U09-Y1 --- U03-Y2:73
+Adjacent of U09-Y2 --- U07-Y2:57
+Adjacent of U09-Y3 --- U10-Y3:41
+Adjacent of U09-Y4 --- U11-Y2:34
+Adjacent of U10-Y1 --- U03-Y3:38
+Adjacent of U10-Y2 --- U07-Y3:23
+Adjacent of U10-Y3 --- U09-Y3:41
+Adjacent of U10-Y4 --- U12-Y5:52
+Adjacent of U11-Y1 --- U07-Y4:78
+Adjacent of U11-Y2 --- U09-Y4:34
+Adjacent of U12-Y1 --- U01-Y3:40
+Adjacent of U12-Y2 --- U02-Y3:42
+Adjacent of U12-Y3 --- U03-Y4:85
+Adjacent of U12-Y4 --- U05-Y6:37
+Adjacent of U12-Y5 --- U10-Y4:52
+Adjacent of U13-Y1 --- U04-Y3:45
+Adjacent of U13-Y2 --- U07-Y5:82

@@ -1,0 +1,120 @@
+ID: KP01, deliveryAddress: TA04, volume:2
+earlyDelivery: 1, breakable: 0, corruptionValue:7
+numberOfDaysWaited: 3, CargoValue: 50
+ID: KP02, deliveryAddress: TA10, volume:5
+earlyDelivery: 0, breakable: 1, corruptionValue:6
+numberOfDaysWaited: 5, CargoValue: 30
+ID: KP03, deliveryAddress: TA27, volume:3
+earlyDelivery: 1, breakable: 1, corruptionValue:2
+numberOfDaysWaited: 1, CargoValue: 50
+ID: KP04, deliveryAddress: TA17, volume:5
+earlyDelivery: 0, breakable: 1, corruptionValue:5
+numberOfDaysWaited: 5, CargoValue: 30
+ID: KP05, deliveryAddress: TA12, volume:7
+earlyDelivery: 0, breakable: 0, corruptionValue:5
+numberOfDaysWaited: 4, CargoValue: 85
+ID: KP06, deliveryAddress: TA07, volume:3
+earlyDelivery: 1, breakable: 0, corruptionValue:9
+numberOfDaysWaited: 1, CargoValue: 50
+ID: KP07, deliveryAddress: TA14, volume:1
+earlyDelivery: 0, breakable: 1, corruptionValue:8
+numberOfDaysWaited: 2, CargoValue: 30
+ID: KP08, deliveryAddress: TA29, volume:7
+earlyDelivery: 1, breakable: 0, corruptionValue:9
+numberOfDaysWaited: 3, CargoValue: 50
+ID: KP09, deliveryAddress: TA01, volume:6
+earlyDelivery: 1, breakable: 0, corruptionValue:7
+numberOfDaysWaited: 5, CargoValue: 50
+ID: KP10, deliveryAddress: TA15, volume:4
+earlyDelivery: 0, breakable: 0, corruptionValue:4
+numberOfDaysWaited: 5, CargoValue: 129
+ID: KP11, deliveryAddress: TA26, volume:2
+earlyDelivery: 0, breakable: 1, corruptionValue:9
+numberOfDaysWaited: 1, CargoValue: 30
+ID: KP12, deliveryAddress: TA07, volume:6
+earlyDelivery: 1, breakable: 1, corruptionValue:5
+numberOfDaysWaited: 5, CargoValue: 50
+ID: KP13, deliveryAddress: TA21, volume:7
+earlyDelivery: 1, breakable: 1, corruptionValue:3
+numberOfDaysWaited: 5, CargoValue: 50
+ID: KP14, deliveryAddress: TA30, volume:6
+earlyDelivery: 1, breakable: 0, corruptionValue:4
+numberOfDaysWaited: 3, CargoValue: 50
+ID: KP15, deliveryAddress: TA09, volume:3
+earlyDelivery: 0, breakable: 0, corruptionValue:7
+numberOfDaysWaited: 5, CargoValue: 132
+ID: KP16, deliveryAddress: TA05, volume:2
+earlyDelivery: 0, breakable: 1, corruptionValue:6
+numberOfDaysWaited: 1, CargoValue: 30
+ID: KP17, deliveryAddress: TA21, volume:2
+earlyDelivery: 1, breakable: 1, corruptionValue:7
+numberOfDaysWaited: 3, CargoValue: 50
+ID: KP18, deliveryAddress: TA28, volume:4
+earlyDelivery: 1, breakable: 1, corruptionValue:9
+numberOfDaysWaited: 5, CargoValue: 50
+ID: KP19, deliveryAddress: TA19, volume:5
+earlyDelivery: 1, breakable: 0, corruptionValue:9
+numberOfDaysWaited: 4, CargoValue: 50
+ID: KP20, deliveryAddress: TA27, volume:3
+earlyDelivery: 1, breakable: 0, corruptionValue:5
+numberOfDaysWaited: 5, CargoValue: 50
+ID: KP21, deliveryAddress: TA06, volume:8
+earlyDelivery: 1, breakable: 1, corruptionValue:9
+numberOfDaysWaited: 4, CargoValue: 50
+ID: KP22, deliveryAddress: TA24, volume:4
+earlyDelivery: 0, breakable: 1, corruptionValue:2
+numberOfDaysWaited: 1, CargoValue: 30
+ID: KP23, deliveryAddress: TA11, volume:6
+earlyDelivery: 1, breakable: 1, corruptionValue:1
+numberOfDaysWaited: 5, CargoValue: 50
+ID: KP24, deliveryAddress: TA13, volume:3
+earlyDelivery: 0, breakable: 0, corruptionValue:3
+numberOfDaysWaited: 5, CargoValue: 127
+ID: KP25, deliveryAddress: TA05, volume:5
+earlyDelivery: 0, breakable: 1, corruptionValue:6
+numberOfDaysWaited: 4, CargoValue: 30
+ID: KP26, deliveryAddress: TA25, volume:4
+earlyDelivery: 1, breakable: 0, corruptionValue:5
+numberOfDaysWaited: 4, CargoValue: 50
+ID: KP27, deliveryAddress: TA22, volume:3
+earlyDelivery: 0, breakable: 1, corruptionValue:9
+numberOfDaysWaited: 4, CargoValue: 30
+ID: KP28, deliveryAddress: TA23, volume:6
+earlyDelivery: 1, breakable: 0, corruptionValue:5
+numberOfDaysWaited: 2, CargoValue: 50
+ID: KP29, deliveryAddress: TA25, volume:3
+earlyDelivery: 1, breakable: 0, corruptionValue:4
+numberOfDaysWaited: 4, CargoValue: 50
+ID: KP30, deliveryAddress: TA03, volume:2
+earlyDelivery: 0, breakable: 0, corruptionValue:5
+numberOfDaysWaited: 1, CargoValue: 10
+ID: KP31, deliveryAddress: TA29, volume:8
+earlyDelivery: 0, breakable: 1, corruptionValue:7
+numberOfDaysWaited: 4, CargoValue: 30
+ID: KP32, deliveryAddress: TA16, volume:4
+earlyDelivery: 0, breakable: 1, corruptionValue:1
+numberOfDaysWaited: 1, CargoValue: 30
+ID: KP33, deliveryAddress: TA23, volume:2
+earlyDelivery: 1, breakable: 0, corruptionValue:8
+numberOfDaysWaited: 2, CargoValue: 50
+ID: KP34, deliveryAddress: TA02, volume:5
+earlyDelivery: 0, breakable: 0, corruptionValue:2
+numberOfDaysWaited: 1, CargoValue: 7
+ID: KP35, deliveryAddress: TA25, volume:6
+earlyDelivery: 0, breakable: 0, corruptionValue:5
+numberOfDaysWaited: 1, CargoValue: 10
+ID: KP36, deliveryAddress: TA08, volume:3
+earlyDelivery: 0, breakable: 1, corruptionValue:3
+numberOfDaysWaited: 5, CargoValue: 30
+ID: KP37, deliveryAddress: TA18, volume:9
+earlyDelivery: 0, breakable: 1, corruptionValue:4
+numberOfDaysWaited: 4, CargoValue: 30
+ID: KP38, deliveryAddress: TA20, volume:2
+earlyDelivery: 0, breakable: 0, corruptionValue:6
+numberOfDaysWaited: 2, CargoValue: 26
+ID: KP39, deliveryAddress: TA28, volume:8
+earlyDelivery: 0, breakable: 0, corruptionValue:2
+numberOfDaysWaited: 5, CargoValue: 126
+ID: KP40, deliveryAddress: TA26, volume:4
+earlyDelivery: 0, breakable: 0, corruptionValue:3
+numberOfDaysWaited: 1, CargoValue: 8

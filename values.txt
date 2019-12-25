@@ -1,0 +1,5 @@
+Total amount of value = 1843
+The included item weights are:
+4 , 8 , 2 , 3 , 2 , 4 , 2 , 3 , 6 , 3 , 4 , 5 , 3 , 6 , 4 , 8 , 3 , 5 , 4 , 2 , 2 , 3 , 6 , 7 , 6 , 2 , 4 , 6 , 7 , 1 , 3 , 7 , 5 , 3 , 5 , 2
+
+Number of Included items is = 36
